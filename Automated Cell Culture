@@ -61,7 +61,7 @@ def pHsensor():
             GPIO.output(13,False)
             #server = smtplib.SMTP('smtp.gmail.com', 587)
             #server.starttls()
-            #server.login("pi.pro.biology@gmail.com", "raspberry2018#")
+            #server.login("**********", "*********")
             #smg = "Cells are delivered to container."
             #server.sendmail("pi.pro.biology@gmail.com", "ali.rahjouei@mdc-berlin.de", smg)
             #server.quit()
